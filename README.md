@@ -2,7 +2,7 @@
 ## In this machine learning project, I build a content based recommendation system from the ground up to suggest movies to the user based on his/her preferences.
 
 # Dataset - > TMDB 5000 Movie Dataset
-## AAbout dataset -> TMDB 5000 Movie Dataset is a collection pf 5000 movies, and The dataset contains two CSV files, credits, and movies. The credits file contains all the metadata information about the movie and the movie file contains the information like name and id of the movie, budget, languages in the movie that has been released, etc.
+## About dataset -> TMDB 5000 Movie Dataset is a collection pf 5000 movies, and The dataset contains two CSV files, credits, and movies. The credits file contains all the metadata information about the movie and the movie file contains the information like name and id of the movie, budget, languages in the movie that has been released, etc.
 ## Dataset Link ->https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 # About Movie Recommendation Project -> 
